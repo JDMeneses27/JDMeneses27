@@ -7,29 +7,10 @@
   <img src="https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social" alt="Seguidores" />
 </div>
 
-🚀 Sobre Mí
-pythonclass Desarrollador:
-    def __init__(self):
-        self.nombre = "Juan Diego Meneses Nieto"
-        self.rol = "Desarrollador Full Stack"
-        self.ubicacion = "Bucaramanga, Colombia 🇨🇴"
-        self.lenguajes = ["Python", "JavaScript", "PHP", "HTML", "CSS"]
-        self.bases_de_datos = ["MySQL"]
-        self.metodologias = ["Scrum", "Git"]
-        self.herramientas = ["Docker"]
-        self.actualmente_aprendiendo = ["PostgreSQL" , "React"]
-        self.busco_colaborar_en = "Proyectos open source y desarrollo web"
-        
-    def decir_hola(self):
-        print("¡Gracias por visitar mi perfil! Conectemos y construyamos algo increíble juntos 🚀")
-
-yo = Desarrollador()
-yo.decir_hola()
-
 🛠️ Stack Tecnológico
 <div align="center">
 💻 Lenguajes de Programación
-[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black]
 [https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white]
 [https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]
